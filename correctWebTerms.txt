@@ -1,0 +1,88 @@
+YAGSBPL not in wikip
+BZFlag 	26
+DirectX 76
+Microsoft Visual Studio	190
+XCode
+
+
+//Inside the readme file
+MinGW	/
+MSYS
+Cygwin
+ 
+ missed 
+	Boost's A* not found
+	YAGSBPL
+ 
+ //
+ 
+ 
+ VirtualBox	344
+ Ubuntu Desktop Edition 335
+ Unix
+ XCode
+ 
+  IBM DB2  - why not hitting?
+  Screencast-o-matic - not in wikipedia
+  
+  make 2 or 0.2 a minimum
+  
+  Manually force terms:
+	software
+	operating system names
+	version?
+	Force up positive selection rate. False negatives are bad
+	
+15
+45
+114
+186
+
+
+118
+121
+122
+124
+
+	BZFlag
+
+	DirectX
+
+	Microsoft Visual Studio
+	XCode
+	
+	Crytek
+	Email
+	Find
+
+  
+  
+	VirtualBox
+	XCode
+	Unix
+	
+Missed software names were: 
+	Ubuntu
+
+Identified 116 out of 120 regular nouns. Success rate: 96.6 vs 3.3
+Nouns misclassified as software names were: 
+	Greenplum
+	Myspace
+	Netezza
+	Quest Software
+	
+	
+	http://bzflag.org/
+	http://www.microsoft.com/en-us/download/details.aspx?id=35  +
+	no msvs
+	http://developer.apple.com/xcode/
+	
+	
+3 good terms 
+	https://virtualbox.org/
+	http://developer.apple.com/xcode/
+	http://www.unix.org/
+	
+	
+	
+

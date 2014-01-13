@@ -1,0 +1,474 @@
+winrar
+24SevenOffice
+3D Studio Max
+4th Dimension
+7-Zip
+AbiWord
+Access Accounting
+ACDSee
+Acronis True Image
+ADABAS
+Adaptive Server Enterprise
+Adempiere
+Adium
+Adobe Acrobat
+Adobe Dreamweaver
+Adobe Illustrator
+Adobe Photoshop
+Adobe Photoshop Lightroom
+Adobe Premiere
+Adobe Reader
+Alcohol 120%
+Altibase
+AmaroK
+AME Accounting Software
+aMSN
+AOL Instant Messenger
+Apache
+Apache Derby
+Apache James
+Appian
+Apple Aperture
+Applix Word
+ArcGIS
+Ardour
+Ark
+Art of Illusion
+Artemis
+Atlantis Nova
+Atlantis Word Processor
+aTunes
+Audacious
+Audacity
+AutoCAD
+Avast! Free Antivirus
+AVG AntiVirus Free
+Aviary
+Avid
+Avidemux
+Avira Free Antivirus
+AWStats
+Ayttm
+Baan
+Bacula
+Balsa
+Banshee
+Bean
+BitchX
+Bitdefender
+Bizagi
+Blender
+Bluefish
+BlueGriffon
+Bonita Open Solution
+Brasero
+BRL-CAD
+bzip2
+Cakewalk
+Camino
+CATIA
+CDex
+cdrtools
+Centericq
+CGram Enterprise
+Cherokee
+Chromium
+Cinelerra
+Cinepaint
+Citadel
+Clarizen
+Clonezilla
+COA Solutions
+CODA
+Colloquy
+Comodo Internet Security
+Compiere
+Condor
+CopyDesk
+Corel Photo-Paint
+Corel Presentations
+Corel Quattro Pro
+CorelDRAW
+Cortado
+Cougar Mountain Software
+Cubase
+CURL
+Cyberduck
+Datacom
+Dia
+Digikam
+Dillo
+Disk Utility
+Dolibarr
+Dolphin
+Dotproject
+Dragon Player
+Drizzle
+DynaRoad
+EGroupWare
+Ekiga
+Emesene
+Empathy
+Evince
+Exaile
+Exchequer
+Exim
+Eye of GNOME
+EZ Word
+FAR Manager
+File Roller
+FileMaker
+FileZilla
+FileZilla Server
+Final Cut Studio
+Finder
+Firebird
+Firefox
+FlashGet
+FlexAccount
+Flock
+Foobar2000
+Fortora Fresh Finance
+Foxit Reader
+FrameMaker
+Free Download Manager
+FreeCAD
+F-Spot
+Gajim
+Galeon
+GanttProject
+GarageBand
+Gedit
+Geeqie
+GetRight
+gFTP
+Gizmo5
+Gnash
+GNU Enterprise
+GNU IceCat
+GnuCash
+GNUMail
+Gnumeric
+Gobe Productive
+Google Chrome
+Google Sketchup Pro
+Google Talk
+GPdf
+Gplay
+GRASS GIS
+Grip
+Grisbi
+Group-Office
+Gthumb
+gvim
+gvSIG
+Gwenview
+gzip
+H2
+Hiawatha
+hMailServer
+HomeBank
+HP NonStop SQL
+HSQLDB
+iBank
+IceWeasel
+iChat
+Ichitaro
+ICQ
+iMovie HD
+InCopy
+InDesign
+Informix
+Info-ZIP
+InfraRecorder
+Ingres
+Inkscape
+Internet Explorer
+iPhoto
+Iptables
+IrfanView
+irssi
+iTunes
+Jarte
+JBrout
+jEdit
+JFire
+JGnash
+Joe
+Jokosher
+juK
+JUMP GIS
+K3b
+K-3D
+Kaffeine
+Kaspersky Anti-Virus
+Kate
+Kdenlive
+Keynote
+Kget
+Kino
+Kivio
+KMail
+K-Meleon
+KMyMoney
+KompoZer
+Konqueror
+Kontact
+Konversation
+Kopete
+KPDF
+KPhone
+KPhotoAlbum
+KPresenter
+Krita
+Krusader
+KSpread
+KWord
+KWrite
+LandSerf
+LedgerSMB
+LibreCAD
+Libremail
+LibreOffice Calc
+LibreOffice Impress
+LibreOffice Writer
+LibrePlan
+Lightspark
+lighttpd
+Links
+Linphone
+Linter SQL RDBMS
+Logic Pro
+Lombardi Software
+Lotus 1-2-3
+Lotus Freelance Graphics
+Lotus Organiser
+Lotus Symphony
+Lotus Word Pro
+LucidDB
+LyX
+MapServer
+Mariner Write
+MaxDB
+Maya
+Media Player Classic
+Mellel
+Metastorm
+MicroPlanner X-Pert
+Microsoft Access
+Microsoft Dynamics AX
+Microsoft Dynamics GP
+Microsoft Dynamics NAV
+Microsoft Dynamics SL
+Microsoft Entourage
+Microsoft Excel
+Microsoft FrontPage
+Microsoft Money
+Microsoft Navision
+Microsoft Office Accounting
+Microsoft Office Visio
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Project
+Microsoft SQL Server
+Microsoft Visual Foxpro
+Microsoft Word
+Microsoft Works
+Midnight Commander
+Midori
+Miranda IM
+Mondo Rescue
+MonetDB
+Moneydance
+MPlayer
+MSN Messenger
+mSQL
+muCommander
+Muine
+Musikcube
+Mutt
+MYOB
+MySQL
+nano
+Nautilus
+NeoOffice Writer
+Nero Burning ROM
+NetMeeting
+Netscape Composer
+NetSuite
+Nexusdb
+NFS
+nginx
+Nisus Writer
+NolaPro
+Norton AntiVirus
+Norton Ghost
+NOSA XP
+Notepad
+Notepad++
+Notepad2
+Novell Evolution
+NuFW
+Numbers
+Nvu
+Okular
+OmniGraffle
+Omnis Studio
+Open Canvas
+Open Workbench
+OpenBase SQL
+Openbravo
+Openda QX
+OpenEdge
+OpenERP
+OpenFX
+OpenGroupware
+OpenLink Virtuoso
+OpenOffice Calc
+OpenOffice Draw
+OpenOffice Impress
+OpenOffice.org Writer
+OpenProj
+Openshot
+Open-Xchange
+Opera
+Oracle
+Oracle E-Business Suite
+Oracle Rdb
+Outlook Express
+P7zip
+Paint Shop Pro
+Paint.NET
+PDFCreator
+pdftk
+Pegasus SoftwareOpera II
+Pegasystems
+Peoplesoft Enterprise
+Pervasive PSQL
+Picasa
+Pidgin
+PiTiVi
+PolyEdit
+Polyhedra DBMS
+Portable Batch System
+POS Solutions
+Postbooks
+Postfix
+Postgres Plus Advanced Server
+Postgres Plus Standard Server
+PostgreSQL
+POV-Ray
+PowerDVD
+Primavera
+PSI
+Publisher
+Qcad
+QGis
+Qmail
+Quanta Plus
+QuarkXPress
+QuickBooks Enterprise Solutions
+Quicken
+QuickTime Player
+Quod Libet
+QuteCom
+R:Base
+RDM Embedded
+RDM Server
+RealPlayer
+REAPER
+Rhythmbox
+Rosegarden
+RoundCube
+Safari
+Sage 300 ERP
+Sage Line 50
+Sage Pastel Evolution
+Sage PFW ERP
+Salome
+Samba
+Sambar
+SAP Business One
+SAP ERP
+ScimoreDB
+SciTE
+Scribus
+SeaMonkey
+Sendmail
+Serpentine
+Shiira
+Simply Accounting
+SketchUp
+Skype
+SmallSQL
+Smultron
+Sodipodi
+Softimage
+Software AG
+SOGo
+SolidWorks
+Songbird
+Sonique
+Sound Juicer
+SQL Anywhere
+SQLBase
+SQLite
+SQL-Ledger
+StarOffice
+STDU Viewer
+SubEthaEdit
+SumatraPDF
+Sun Grid Engine
+Superbase
+Sylpheed
+Tally
+Ted
+TED Notepad
+Teradata
+TextEdit
+TextMaker
+TextWrangler
+The GIMP
+Thunderbird
+Tibco BPM
+TotalMedia Theatre
+Totem
+Tryton
+TurboCASH
+UltraEdit
+VideoPad
+VirtualDrive Pro
+VirtualDub
+VLC
+w3m
+Web
+Webalizer
+WebERP
+Webtrends
+Wget
+Winamp
+Windows Explorer
+Windows Media Player
+Windows Movie Maker
+Wings 3D
+WinZip
+WordFile4ME
+WordPad
+WordPerfect
+wxDownload Fast
+Xarchiver
+X-CD-Roast
+XChat
+xFce4 Thunar
+Xfe
+Xfig
+Xine
+XMLSpy
+XMMS
+Xnview
+Xpdf
+YafRay
+Yahoo! Messenger
+Zimbra
+Zinf
+Zoner Photo Studio

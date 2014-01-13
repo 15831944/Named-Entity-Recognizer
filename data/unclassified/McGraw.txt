@@ -1,0 +1,15 @@
+mcgraw,4,18.181818
+business,2,9.090909
+macgraw,2,9.090909
+surname,2,9.090909
+broadcasting,1,4.5454545
+corporation,1,4.5454545
+disambig,1,4.5454545
+education,1,4.5454545
+mcgrawhill,1,4.5454545
+new,1,4.5454545
+people,1,4.5454545
+places,1,4.5454545
+publishing,1,4.5454545
+refer,1,4.5454545
+services,1,4.5454545

@@ -1,0 +1,15 @@
+brasero,3,15.789473
+heater,2,10.526316
+software,2,10.526316
+avoid,1,5.263158
+being,1,5.263158
+comment,1,5.263158
+disambig,1,5.263158
+dvdburning,1,5.263158
+linux,1,5.263158
+listed,1,5.263158
+long,1,5.263158
+oven,1,5.263158
+pages,1,5.263158
+refer,1,5.263158
+short,1,5.263158
